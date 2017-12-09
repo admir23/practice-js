@@ -1,0 +1,23 @@
+{
+  "name": "practice_js",
+  "version": "1.0.0",
+  "description": "practicing js",
+  "main": "app.js",
+  "scripts": {
+    "test": "app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admir23/practice-js.git"
+  },
+  "keywords": [
+    "JS",
+    "practice"
+  ],
+  "author": "Admir Kurtovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admir23/practice-js/issues"
+  },
+  "homepage": "https://github.com/admir23/practice-js#readme"
+}
